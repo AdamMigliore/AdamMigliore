@@ -18,6 +18,25 @@ This project is used by myself daily to track my weight. I created visualization
 [<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
 [<img height="32" width="96" src="img/logos/ubuntu.svg" />](https://ubuntu.com/)
 
+### 2022-2023 | Urbengage | Capstone Design Project
+This project was a research project done under the advisor of Prof. Nik Luka from [Peter Guo-hua Fu School of Architecure](https://www.mcgill.ca/architecture/) at [McGill University](https://www.mcgill.ca/). Our team researched the components which facilitate urban planners in gathering citizen feedback on urban initiatives. We successfully proved that our solution could help urban planners reduce 10x their costs and save them 200+ manhours. We created an engaging surveying experience for citizens, we automated data analysis and visualization and we optimized mobilization campaigns. This project was a success all while coming under a third of the allocated budget.
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/firestore.svg" />](https://firebase.google.com/products/firestore)
+[<img height="32" width="32" src="img/logos/firestoreFunctions.svg" />](https://firebase.google.com/products/functions)
+[<img height="32" width="32" src="img/logos/firebaseAuth.svg" />](https://firebase.google.com/products/auth)
+[<img height="32" width="32" src="img/logos/nextjs.svg" />](https://nextjs.org/)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+
+<!--
+### 2022 | Distributed Systems Projects | 
+
+#### Technologies
+Java
+Zookeeper
+Ubuntu
+-->
+
 <!--
 ### 2022 | Computer Vision Projects | 
 
@@ -39,15 +58,17 @@ As part of our final project for the [ECSE437](https://www.mcgill.ca/study/2022-
 [<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="img/logos/nodejs.svg" />](https://nodejs.org/en)
 
-### 2022-2023 | Urbengage | Capstone Design Project
-This project was a research project done under the advisor of Prof. Nik Luka from [Peter Guo-hua Fu School of Architecure](https://www.mcgill.ca/architecture/) at [McGill University](https://www.mcgill.ca/). Our team researched the components which facilitate urban planners in gathering citizen feedback on urban initiatives. We successfully proved that our solution could help urban planners reduce 10x their costs and save them 200+ manhours. We created an engaging surveying experience for citizens, we automated data analysis and visualization and we optimized mobilization campaigns. This project was a success all while coming under a third of the allocated budget.
+<!--
+### 2022 | Health Data Parser | Health and Fitness
 
 #### Technologies
-[<img height="32" width="32" src="img/logos/firestore.svg" />](https://firebase.google.com/products/firestore)
-[<img height="32" width="32" src="img/logos/firestoreFunctions.svg" />](https://firebase.google.com/products/functions)
-[<img height="32" width="32" src="img/logos/firebaseAuth.svg" />](https://firebase.google.com/products/auth)
-[<img height="32" width="32" src="img/logos/nextjs.svg" />](https://nextjs.org/)
-[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+-->
+
+<!--
+### 2022 | Operating Systems Projects
+
+#### Technologies
+-->
 
 ### 2021 | SMKE Token | Finance | [Repository](https://github.com/AdamMigliore/SmokeToken) | [Website](friendly-cray-c9d4b7.netlify.app)
 I created an ERC-20 smart contract based on [OpenZeppelin's](https://www.openzeppelin.com/) standard. I enhanced the smart contract to have a extra features such as spreading your token's to all holders and receiving tokens on Wednesday's. I wrote an oracle and a web application to interact with the smart contract. The smart contract is deployed on the Rinkeby test network.
@@ -60,7 +81,71 @@ I created an ERC-20 smart contract based on [OpenZeppelin's](https://www.openzep
 [<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="img/logos/eth-diamond-purple.png" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
-[<img height="32" width="96" src="img/logos/infura.svg" />](https://www.infura.io/)
+[<img height="32" width="128" src="img/logos/infura.svg" />](https://www.infura.io/)
+
+<!--
+### 2021 | Web Terminal Portfolio | Personal Website | Repository | Website
+
+#### Technologies
+-->
+
+<!--
+### 2021 | Auto Repair Application
+
+#### Technologies
+-->
+
+<!--
+### 2020 | Dinner Plans? | CodeJam 2020
+
+#### Technologies
+-->
+
+<!--
+### 2020 | Peapod | YHack20
+
+#### Technologies
+-->
+
+<!--
+### 2020 | Stanley | Discord Finance Bot
+
+#### Technologies
+-->
+
+<!--
+### 2020 | Real Estate Analysis Tool
+
+#### Technologies
+-->
+
+<!--
+### 2019 | ReviewBot | YHack19 | Repository
+
+#### Technologies
+JavaScript
+Node.js
+-->
+
+<!--
+## Other Tools and Languages
+OCaml
+C
+AWS
+Cucumber
+Selenium
+SQL
+Bash
+SCSS
+CSS
+Vue
+Angular
+React Native
+Db2
+Mocha
+Junit
+Mockito
+-->
 
 <!-- ## GitHub Stats
 [![Adam Di Re's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=adammigliore&hide=scss,css&theme=algolia&show_icons=true)](https://github.com/adammigliore) -->

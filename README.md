@@ -26,16 +26,18 @@ Python
 Jupyter Notebook
 OpenCV
 Numpy
+-->
 
 ### 2022 | Espresso Tracker Backend | [Repository](https://github.com/AdamMigliore/ECSE437_Final_Project)
+As part of our final project for the [ECSE437](https://www.mcgill.ca/study/2022-2023/courses/ecse-437) course at McGill University, our team had to integrate the different DevOps processes we learned throughout the semester. Our team created a REST API using [Express.js](https://expressjs.com/) for our MySQL database. We incorporated automated testing using [Jest](https://jestjs.io/), linting using [ESLint](https://eslint.org/) and source code management using [Git](https://git-scm.com/). We used [Github Actions](https://github.com/features/actions) for our CI system. We went above the requirements for the project and added CD using [Railway](https://railway.app/). **Grade: 105%**
 
 #### Technologies
-PlanetScale
-Railway
-Github Actions
-Prisma
-TypeScript
--->
+[<img height="32" width="32" src="img/logos/prisma.svg" />](https://www.prisma.io/)
+[<img height="32" width="32" src="img/logos/planetscale.svg" />](https://planetscale.com/)
+[<img height="32" width="32" src="img/logos/railway.svg" />](https://railway.app/)
+[<img height="32" width="32" src="img/logos/githubactions.svg" />](https://github.com/features/actions)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/nodejs.svg" />](https://nodejs.org/en)
 
 ### 2022-2023 | Urbengage | Capstone Design Project
 This project was a research project done under the advisor of Prof. Nik Luka from [Peter Guo-hua Fu School of Architecure](https://www.mcgill.ca/architecture/) at [McGill University](https://www.mcgill.ca/). Our team researched the components which facilitate urban planners in gathering citizen feedback on urban initiatives. We successfully proved that our solution could help urban planners reduce 10x their costs and save them 200+ manhours. We created an engaging surveying experience for citizens, we automated data analysis and visualization and we optimized mobilization campaigns. This project was a success all while coming under a third of the allocated budget.

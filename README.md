@@ -17,6 +17,7 @@ Welcome to my portfolio. Listed are a variety of different projects (big and sma
 ### 2023 | Barbell Tracker | Health and Fitness <!--| [Repository](https://github.com/AdamMigliore/BarbellTracker) -->
 
 [<img src="img/demos/barbell_demo.gif" />]()
+<br>
 This project was created to help me track the barbell path when I perform a Squat, Bench Press and Deadlift. A weightlifter can optimize their barbell path to maximize the efficiency of their lift. To analyze the bar path, I used YOLOv8 by Ultralytics to train a model capable of detecting a barbell in real-time. I then use OpenCV to track the center of the barbell. The video of the lift is exported in `.mp4` format with the traced bar path. I also compute the barbell's velocity, change in position and angle for every frame. This allows the weightlifter to leverage velocity based training techniques.
 
 #### Technologies
@@ -107,9 +108,8 @@ This project is a web application built with React and Material UI for the front
 [<img height="64" width="64" src="img/logos/Arch_Amazon-DynamoDB_64.svg" />]()
 [<img height="64" width="64" src="img/logos/Arch_Amazon-Simple-Storage-Service_64.svg" />]()
 [<img height="64" width="64" src="img/logos/Arch_Amazon-Timestream_64.svg" />]()
-[<img height="64" width="64" src="img/logos/Arch_AWS-Cloudformation_64.svg" />]()
+[<img height="64" width="64" src="img/logos/Arch_AWS-CloudFormation_64.svg" />]()
 [<img height="64" width="128" src="img/logos/bash.svg" />](https://www.gnu.org/software/bash/)
-[<img height="64" width="64" src="img/logos/vue.svg" />]()
 [<img height="64" width="64" src="img/logos/angular.svg" />]()
 [<img height="64" width="128" src="img/logos/springio-ar21.svg" />]()
 [<img height="96" width="60" src="img/logos/java-vertical.svg" />]()
